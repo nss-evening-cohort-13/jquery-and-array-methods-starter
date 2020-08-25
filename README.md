@@ -1,5 +1,7 @@
 # JQuery and Array Methods Starter
 
+[View the Demo](https://nss-evening-cohort-13.github.io/jquery-and-array-methods-starter/)
+
 ## Get Started
 ```
 git clone https://github.com/nss-evening-cohort-13/jquery-and-array-methods-starter.git
